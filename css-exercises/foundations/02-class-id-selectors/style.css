@@ -1,0 +1,19 @@
+.paragraph {
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.paragraph.cooler {
+  font-size: x-large;
+}
+
+#div-1 {
+  font-size: xx-large;
+  color: blue;
+}
+
+#div-2 {
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: x-large;
+}
